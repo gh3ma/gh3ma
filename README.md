@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghaith</h1>
-<h3 align="center">There are two rules for success: 1) Never tell everything you know.</h3>
+<h3 align="center">There are two rules for success: 
+  1) Never tell everything you know.</h3>
+  2) .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gh3ma&label=Profile%20views&color=0e75b6&style=flat" alt="gh3ma" /> </p>
 
