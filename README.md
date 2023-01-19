@@ -1,10 +1,11 @@
 <h1>Hi 👋, I'm Ghaith</h1>
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
 <h3>There are two rules for success:</h3>
 <h3>1)Never tell everything you know.</h3>
 <h3>2).</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gh3ma&label=Profile%20views&color=0e75b6&style=flat" alt="gh3ma" /></p>
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gh1ma/](https://www.linkedin.com/in/gh1ma/)
