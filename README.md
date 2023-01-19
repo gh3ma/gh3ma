@@ -4,7 +4,7 @@
 <h3>2).</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gh3ma&label=Profile%20views&color=0e75b6&style=flat" alt="gh3ma" /></p>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gh1ma/](https://www.linkedin.com/in/gh1ma/)
