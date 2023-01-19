@@ -4,7 +4,7 @@
 <h3>2).</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gh3ma&label=Profile%20views&color=0e75b6&style=flat" alt="gh3ma" /></p>
 
-<img align="right" alt="Coding" width="400" src=(https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw1lLsGwlN_tLIWeoE7pQeej&ust=1674205782714000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPDE2dmk0_wCFQAAAAAdAAAAABAI)">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw1lLsGwlN_tLIWeoE7pQeej&ust=1674205782714000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPDE2dmk0_wCFQAAAAAdAAAAABAI](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gh1ma/](https://www.linkedin.com/in/gh1ma/)
