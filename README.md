@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Ghaith(İlyas)</h1>
+<h1>Hi 👋, I'm Ghaith (İlyas)</h1>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <h3>There are two rules for success:</h3>
