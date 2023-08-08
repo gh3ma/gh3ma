@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ghaith</h1>
+<h1 align="center">Hello, I'm Ghaith</h1>
 <h3 align="center">There are two rules for success: 1)Never tell everything you know. 2).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gh3ma&label=Profile%20views&color=0e75b6&style=flat" alt="gh3ma" /> </p>
@@ -14,7 +14,6 @@
 <a href="https://linkedin.com/in/gh1ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gh1ma" height="30" width="40" /></a>
 <a href="https://fb.com/gh1ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gh1ma" height="30" width="40" /></a>
 <a href="https://instagram.com/gh1ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gh1ma" height="30" width="40" /></a>
-<a href="https://www.youtube.com/ghaith.coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ghaith.coding" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gh1ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gh1ma" height="30" width="40" /></a>
 </p>
 
