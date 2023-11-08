@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gh3ma&label=Profile%20views&color=0e75b6&style=flat" alt="gh3ma" /> </p>
 
-- 🍀 I’m currently learning **Flutter & Dart**
 
 - 📱 All of my projects are available at [https://github.com/gh3ma](https://github.com/gh3ma)
 
