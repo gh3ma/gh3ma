@@ -1,61 +1,177 @@
-<h1 align="left">Hello,I'm Ghaith</h1>
+<h1 align="center">Hi 👋, I'm Ghaith Almadani</h1>
 
-###
+<h3 align="center">Cybersecurity Enthusiast | Red Team & Penetration Testing | Computer Engineering M.Sc.</h3>
 
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/34b5dd11970891ac4707d4c96bc6bf6f209a0df904e3b2fd3fa6c38294e4d790/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63612f32362f32652f63613236326530333534656561333131633431313334633365346263336263322e676966"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+Red+Team+%7C+Pentesting;Active+Directory+Security;Web+Application+Security;Learning.+Breaking.+Securing." />
 </div>
 
-###
+<br>
 
-<h1 align="left">There are two rules for success:</h1>
+<div align="center">
+  <img height="170" src="https://camo.githubusercontent.com/34b5dd11970891ac4707d4c96bc6bf6f209a0df904e3b2fd3fa6c38294e4d790/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63612f32362f32652f63613236326530333534656561333131633431313334633365346263336263322e676966" />
+</div>
 
-###
+---
 
-<h2 align="left">1-Never tell everything you know.<br>2-</h2>
+## 🕵️ About Me
 
-###
+```bash
+┌──(ghaith㉿security)-[~]
+└─$ whoami
 
-<h3 align="left">👨🏻‍💻Who I'm:</h3>
+Name       : Ghaith Almadani
+Role       : Cybersecurity Enthusiast
+Focus      : Red Teaming & Penetration Testing
+Research   : Cybersecurity & AI
+Education  : M.Sc. Computer Engineering
+Status     : Always Learning...
+```
 
-###
+* 🔐 Focused on **Red Teaming & Penetration Testing**
+* 🧠 Learning **Active Directory Security & Attack Paths**
+* 🌐 Exploring **Web Application Security**
+* 🐧 Working mainly with **Linux & Kali Linux**
+* 🧪 Building cybersecurity labs and practical projects
+* 🤖 Interested in **AI applications in Cybersecurity**
+* 🎯 Goal: Become a professional **Red Team Operator**
 
-<p align="left">- 📱I’m working as Flutter Developer .<br>- 📚 I'm currently learning Mobile Apps Development .</p>
+---
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## ⚔️ Cybersecurity Skills
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+
+<img src="https://img.shields.io/badge/Penetration_Testing-111111?style=for-the-badge&logo=kalilinux&logoColor=00ff88" />
+
+<img src="https://img.shields.io/badge/Red_Teaming-111111?style=for-the-badge&logo=hackthebox&logoColor=00ff88" />
+
+<img src="https://img.shields.io/badge/Active_Directory-111111?style=for-the-badge&logo=windows&logoColor=00ff88" />
+
+<img src="https://img.shields.io/badge/Web_Security-111111?style=for-the-badge&logo=owasp&logoColor=00ff88" />
+
+<img src="https://img.shields.io/badge/Network_Security-111111?style=for-the-badge&logo=cisco&logoColor=00ff88" />
+
+<img src="https://img.shields.io/badge/OSINT-111111?style=for-the-badge&logo=torproject&logoColor=00ff88" />
+
 </div>
 
-###
+---
+
+## 🛠️ Security Tools
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=linux&logoColor=00ff88" />
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+
+<img src="https://img.shields.io/badge/BloodHound-EF2D5E?style=for-the-badge&logo=neo4j&logoColor=white" />
+
+</div>
+
+---
+
+## 💻 Languages & Technologies
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42" alt="bash" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="github" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="c" />
+</div>
+
+---
+
+## 🎓 Current Learning
+
+```text
+[+] Red Team Operations
+[+] Penetration Testing
+[+] Active Directory Exploitation
+[+] Web Application Pentesting
+[+] Privilege Escalation
+[+] Network Security
+[+] OSINT
+[+] Cybersecurity Research
+```
+
+---
+
+## 🧪 Labs & Platforms
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+
+</div>
+
+---
+
+## 📚 Research Interests
+
+* 🔐 Physical Layer Security
+* 🤖 AI for Cybersecurity
+* ⚔️ Red Team Automation
+* 🕸️ Active Directory Attack Paths
+* 🌐 Web Application Security
+* 🧠 Deep Reinforcement Learning
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## ⚡ Terminal
+
+```bash
+┌──(ghaith㉿security)-[~/red-team]
+└─$ echo "There are two rules for success..."
+
+1. Never tell everything you know.
+2. _
+```
+
+<div align="center">
+
+### 🔐 Think like an attacker. Build like a defender.
+
+</div>
