@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+Red+Team+%7C+Pentesting;Active+Directory+Security;Web+Application+Security;Learning.+Breaking.+Securing." />
 </div>
 
-<br>
-
-
 ---
 
 ## 🕵️ About Me
@@ -142,16 +139,6 @@ Status     : Always Learning...
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true" height="165"/>
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
 
 </div>
 
