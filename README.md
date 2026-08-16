@@ -8,6 +8,22 @@
 
 ---
 
+## ⚡ Terminal
+
+```bash
+┌──(ghaith㉿security)-[~/red-team]
+└─$ echo "There are two rules for success..."
+
+1. Never tell everything you know.
+2. _
+```
+
+<div align="center">
+
+### 🔐 Think like an attacker. Build like a defender.
+
+</div>
+
 ## 🕵️ About Me
 
 ```bash
@@ -19,17 +35,14 @@ Role       : Cybersecurity Enthusiast
 Focus      : Red Teaming & Penetration Testing
 Research   : Cybersecurity & AI
 Education  : M.Sc. Computer Engineering
-Status     : Always Learning...
 ```
 
-* 🔐 Focused on **Red Teaming & Penetration Testing**
+* 🔐 Focused on **Red Teaming & Penetration Testing & Red Team Operator**
 * 🧠 Learning **Active Directory Security & Attack Paths**
 * 🌐 Exploring **Web Application Security**
 * 🐧 Working mainly with **Linux & Kali Linux**
 * 🧪 Building cybersecurity labs and practical projects
 * 🤖 Interested in **AI applications in Cybersecurity**
-* 🎯 Goal: Become a professional **Red Team Operator**
-
 ---
 
 ## ⚔️ Cybersecurity Skills
@@ -130,20 +143,4 @@ Status     : Always Learning...
 * 🌐 Web Application Security
 * 🧠 Deep Reinforcement Learning
 
----
 
-## ⚡ Terminal
-
-```bash
-┌──(ghaith㉿security)-[~/red-team]
-└─$ echo "There are two rules for success..."
-
-1. Never tell everything you know.
-2. _
-```
-
-<div align="center">
-
-### 🔐 Think like an attacker. Build like a defender.
-
-</div>
