@@ -2,17 +2,8 @@
 
 <h3 align="center">Cybersecurity Enthusiast | Red Team & Penetration Testing | Computer Engineering M.Sc.</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+Red+Team+%7C+Pentesting;Active+Directory+Security;Web+Application+Security;Learning.+Breaking.+Securing." />
-</div>
 
 ---
-
-## ⚡ Terminal
-
-```bash
-┌──(ghaith㉿security)-[~/red-team]
-└─$ echo "There are two rules for success..."
 
 1. Never tell everything you know.
 2. _
