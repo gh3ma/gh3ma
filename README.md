@@ -5,29 +5,6 @@
 
 ---
 
-1. Never tell everything you know.
-2. _
-```
-
-<div align="center">
-
-### 🔐 Think like an attacker. Build like a defender.
-
-</div>
-
-## 🕵️ About Me
-
-```bash
-┌──(ghaith㉿security)-[~]
-└─$ whoami
-
-Name       : Ghaith Almadani
-Role       : Cybersecurity Enthusiast
-Focus      : Red Teaming & Penetration Testing
-Research   : Cybersecurity & AI
-Education  : M.Sc. Computer Engineering
-```
-
 * 🔐 Focused on **Red Teaming & Penetration Testing & Red Team Operator**
 * 🧠 Learning **Active Directory Security & Attack Paths**
 * 🌐 Exploring **Web Application Security**
