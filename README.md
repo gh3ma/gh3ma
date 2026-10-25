@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ghaith Almadani</h1>
+<h1 align="center">Hi 👋, I'm Ghaith </h1>
 
 <h3 align="center">Cybersecurity Enthusiast | Red Team & Penetration Testing | Computer Engineering M.Sc.</h3>
 
