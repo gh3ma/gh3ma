@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ghaith </h1>
 
-<h3 align="center">Cybersecurity Enthusiast | Red Team & Penetration Testing | Computer Engineering M.Sc.</h3>
+<h3 align="center"> Red Team & Penetration Testing | Computer Engineering M.Sc.</h3>
 
 
 ---
-
-* 🔐 Focused on **Red Teaming & Penetration Testing & Red Team Operator**
-* 🧠 Learning **Active Directory Security & Attack Paths**
-* 🌐 Exploring **Web Application Security**
-* 🐧 Working mainly with **Linux & Kali Linux**
-* 🧪 Building cybersecurity labs and practical projects
 * 🤖 Interested in **AI applications in Cybersecurity**
+* 🧪 Building cybersecurity labs and practical projects
+
 ---
 
 ## ⚔️ Cybersecurity Skills
@@ -101,14 +97,4 @@
 </div>
 
 ---
-
-## 📚 Research Interests
-
-* 🔐 Physical Layer Security
-* 🤖 AI for Cybersecurity
-* ⚔️ Red Team Automation
-* 🕸️ Active Directory Attack Paths
-* 🌐 Web Application Security
-* 🧠 Deep Reinforcement Learning
-
 
